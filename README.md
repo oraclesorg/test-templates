@@ -1,1 +1,1 @@
-# test-templates
+This repository was moved to https://github.com/oraclesorg/deployment-azure
